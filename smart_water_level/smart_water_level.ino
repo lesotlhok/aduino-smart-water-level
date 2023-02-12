@@ -43,7 +43,7 @@ void setup()
   //  lcd.backlight();
   lcd.print("ST-Water Level");
   lcd.setCursor(0, 1);
-  lcd.print("   By Ndlovu");
+  lcd.print("   By lesotlhok");
   delay(2000);
   lcd.clear();
   lcd.setCursor(0, 1);
